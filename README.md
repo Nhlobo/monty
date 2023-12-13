@@ -27,3 +27,9 @@ $ ./monty <file_path>
 ## Error Handling
 - Memory allocation errors are handled gracefully with appropriate messages.
 - Opcode-specific errors are reported with line numbers.
+
+
+## AUTHOR
+This file list all contributors of the repository
+
+Novice Mathebula <nhlobo365@gmail.com>
